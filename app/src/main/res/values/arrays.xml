@@ -1,3 +1,154 @@
 <resources>
+<string-array name="sammy">
+    <item>mapping_source_sammy</item>
+    <item>replacement_sammy</item>
+</string-array>
 
+<string-array name="mapping_source_sammy">
+    <item>com.android.systemui:ic_sysbar_recent</item>
+    <item>com.android.systemui:ic_sysbar_back</item>
+    <item>com.android.systemui:ic_sysbar_home</item>
+</string-array>
+
+<string-array name="replacement_sammy">
+    <item>ic_sysbar_recent_systemui_sammy</item>
+    <item>ic_sysbar_back_systemui_sammy</item>
+    <item>ic_sysbar_home_systemui_sammy</item>
+</string-array>
+
+<string-array name="moto">
+    <item>mapping_source_moto</item>
+    <item>replacement_moto</item>
+</string-array>
+
+<string-array name="mapping_source_moto">
+    <item>com.android.systemui:ic_sysbar_recent</item>
+    <item>com.android.systemui:ic_sysbar_back</item>
+    <item>com.android.systemui:ic_sysbar_home</item>
+</string-array>
+
+<string-array name="replacement_moto">
+    <item>ic_sysbar_recent_systemui_moto</item>
+    <item>ic_sysbar_back_systemui_moto</item>
+    <item>ic_sysbar_home_systemui_moto</item>
+</string-array>
+
+<string-array name="tecno">
+    <item>mapping_source_tecno</item>
+    <item>replacement_tecno</item>
+</string-array>
+
+<string-array name="mapping_source_tecno">
+    <item>com.android.systemui:ic_sysbar_recent</item>
+    <item>com.android.systemui:ic_sysbar_back</item>
+    <item>com.android.systemui:ic_sysbar_home</item>
+</string-array>
+
+<string-array name="replacement_tecno">
+    <item>ic_sysbar_recent_systemui_tecno</item>
+    <item>ic_sysbar_back_systemui_tecno</item>
+    <item>ic_sysbar_home_systemui_tecno</item>
+</string-array>
+
+<string-array name="one_ui">
+    <item>mapping_source_one_ui</item>
+    <item>replacement_one_ui</item>
+</string-array>
+
+<string-array name="mapping_source_one_ui">
+    <item>com.android.systemui:ic_sysbar_recent</item>
+    <item>com.android.systemui:ic_sysbar_back</item>
+    <item>com.android.systemui:ic_sysbar_home</item>
+</string-array>
+
+<string-array name="replacement_one_ui">
+    <item>ic_sysbar_recent_systemui_one_ui</item>
+    <item>ic_sysbar_back_systemui_one_ui</item>
+    <item>ic_sysbar_home_systemui_one_ui</item>
+</string-array>
+
+<string-array name="old">
+    <item>mapping_source_old</item>
+    <item>replacement_old</item>
+</string-array>
+
+<string-array name="mapping_source_old">
+    <item>com.android.systemui:ic_sysbar_recent</item>
+    <item>com.android.systemui:ic_sysbar_back</item>
+    <item>com.android.systemui:ic_sysbar_home</item>
+</string-array>
+
+<string-array name="replacement_old">
+    <item>ic_sysbar_recent_systemui_old</item>
+    <item>ic_sysbar_back_systemui_old</item>
+    <item>ic_sysbar_home_systemui_old</item>
+</string-array>
+
+<string-array name="asus">
+    <item>mapping_source_asus</item>
+    <item>replacement_asus</item>
+</string-array>
+
+<string-array name="mapping_source_asus">
+    <item>com.android.systemui:ic_sysbar_recent</item>
+    <item>com.android.systemui:ic_sysbar_back</item>
+    <item>com.android.systemui:ic_sysbar_home</item>
+</string-array>
+
+<string-array name="replacement_asus">
+    <item>ic_sysbar_recent_systemui_asus</item>
+    <item>ic_sysbar_back_systemui_asus</item>
+    <item>ic_sysbar_home_systemui_asus</item>
+</string-array>
+
+<string-array name="dora">
+    <item>mapping_source_dora</item>
+    <item>replacement_dora</item>
+</string-array>
+
+<string-array name="mapping_source_dora">
+    <item>com.android.systemui:ic_sysbar_recent</item>
+    <item>com.android.systemui:ic_sysbar_back</item>
+    <item>com.android.systemui:ic_sysbar_home</item>
+</string-array>
+
+<string-array name="replacement_dora">
+    <item>ic_sysbar_recent_systemui_dora</item>
+    <item>ic_sysbar_back_systemui_dora</item>
+    <item>ic_sysbar_home_systemui_dora</item>
+</string-array>
+
+<string-array name="android">
+    <item>mapping_source_android</item>
+    <item>replacement_android</item>
+</string-array>
+
+<string-array name="mapping_source_android">
+    <item>com.android.systemui:ic_sysbar_recent</item>
+    <item>com.android.systemui:ic_sysbar_back</item>
+    <item>com.android.systemui:ic_sysbar_home</item>
+</string-array>
+
+<string-array name="replacement_android">
+    <item>ic_sysbar_recent_systemui_android</item>
+    <item>ic_sysbar_back_systemui_android</item>
+    <item>ic_sysbar_home_systemui_android</item>
+</string-array>
+
+<string-array name="nexus">
+    <item>mapping_source_nexus</item>
+    <item>replacement_nexus</item>
+</string-array>
+
+<string-array name="mapping_source_nexus">
+    <item>com.android.systemui:ic_sysbar_recent</item>
+    <item>com.android.systemui:ic_sysbar_back</item>
+    <item>com.android.systemui:ic_sysbar_home</item>
+</string-array>
+
+<string-array name="replacement_nexus">
+    <item>ic_sysbar_recent_systemui_nexus</item>
+    <item>ic_sysbar_back_systemui_nexus</item>
+    <item>ic_sysbar_home_systemui_nexus</item>
+</string-array>
 </resources>

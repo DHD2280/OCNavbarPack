@@ -12,8 +12,87 @@
             android:value="Luigi (DHD2280)" /> <!-- Author of the icon pack -->
 
         <!-- START OF ICON PACKS -->
+    <activity android:name="sammy"
+        android:label="Sammy"
+        android:exported="true">
+        <intent-filter>
+            <action android:name="it.dhd.oxygencustomizer.iconpack" />
+            <category android:name="android.intent.category.DEFAULT" />
+        </intent-filter>
+    </activity>
 
-        <!-- END OF ICON PACKS -->
+    <activity android:name="moto"
+        android:label="Moto"
+        android:exported="true">
+        <intent-filter>
+            <action android:name="it.dhd.oxygencustomizer.iconpack" />
+            <category android:name="android.intent.category.DEFAULT" />
+        </intent-filter>
+    </activity>
+
+    <activity android:name="tecno"
+        android:label="Tecno"
+        android:exported="true">
+        <intent-filter>
+            <action android:name="it.dhd.oxygencustomizer.iconpack" />
+            <category android:name="android.intent.category.DEFAULT" />
+        </intent-filter>
+    </activity>
+
+    <activity android:name="one_ui"
+        android:label="One UI"
+        android:exported="true">
+        <intent-filter>
+            <action android:name="it.dhd.oxygencustomizer.iconpack" />
+            <category android:name="android.intent.category.DEFAULT" />
+        </intent-filter>
+    </activity>
+
+    <activity android:name="old"
+        android:label="Old"
+        android:exported="true">
+        <intent-filter>
+            <action android:name="it.dhd.oxygencustomizer.iconpack" />
+            <category android:name="android.intent.category.DEFAULT" />
+        </intent-filter>
+    </activity>
+
+    <activity android:name="asus"
+        android:label="Asus"
+        android:exported="true">
+        <intent-filter>
+            <action android:name="it.dhd.oxygencustomizer.iconpack" />
+            <category android:name="android.intent.category.DEFAULT" />
+        </intent-filter>
+    </activity>
+
+    <activity android:name="dora"
+        android:label="Dora"
+        android:exported="true">
+        <intent-filter>
+            <action android:name="it.dhd.oxygencustomizer.iconpack" />
+            <category android:name="android.intent.category.DEFAULT" />
+        </intent-filter>
+    </activity>
+
+    <activity android:name="android"
+        android:label="Android"
+        android:exported="true">
+        <intent-filter>
+            <action android:name="it.dhd.oxygencustomizer.iconpack" />
+            <category android:name="android.intent.category.DEFAULT" />
+        </intent-filter>
+    </activity>
+
+    <activity android:name="nexus"
+        android:label="Nexus"
+        android:exported="true">
+        <intent-filter>
+            <action android:name="it.dhd.oxygencustomizer.iconpack" />
+            <category android:name="android.intent.category.DEFAULT" />
+        </intent-filter>
+    </activity>
+<!-- END OF ICON PACKS -->
     </application>
 
 </manifest>
