@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools">
 
     <application
-        android:label="Signal and Wifi Pack"
+        android:label="Navbar Pack"
         android:supportsRtl="true"
         tools:ignore="MissingApplicationIcon">
 
